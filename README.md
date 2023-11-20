@@ -12,7 +12,8 @@ class FullStackDeveloper {
     public string $location = "📍 Montreal, Qc";
 
 
-    public function whelloWorld() {
+    public function whelloWorld()
+    {
         echo "I’m going to have to science the shit out of this. 🚀 \n";
     }
 }
