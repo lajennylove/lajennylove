@@ -1,4 +1,6 @@
 ```php
+namespace LaJennyLove;
+
 class FullStackDeveloper {
 
     public string $name     = "Jennifer E. Martinez 👩🏼‍💻✨";
