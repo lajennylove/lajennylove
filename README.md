@@ -4,7 +4,7 @@ class FullStackDeveloper {
     public string $name     = "Jennifer E. Martinez 🚀";
     public bool $developer  = true;
     public bool $writter    = true;
-    public array $languages = ["en_CA" => 🇨🇦, "es_MX" => 🇲🇽, "pt_BR" => 🇧🇷, "fr_CA" => <img style="width:10px" src="./img/quebec.svg">];
+    public array $languages = ["en_CA" => 🇨🇦, "es_MX" => 🇲🇽, "pt_BR" => 🇧🇷, "fr_CA" => 🇨🇦];
     public string $location = "Montreal, CQ";
 
 
