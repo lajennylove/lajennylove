@@ -8,13 +8,13 @@ class FullStackDeveloper {
     public bool $frontend   = true;
     public bool $devops     = true;
     public bool $mobile     = true;
-    public array $languages = ["en_CA" => 🇨🇦, "es_MX" => 🇲🇽, "pt_BR" => 🇧🇷, "fr_CA" => 🇨🇦];
+    public array $languages = ["en_CA" => "🇨🇦", "es_MX" => "🇲🇽", "pt_BR" => "🇧🇷", "fr_CA" => "🇨🇦"];
     public string $location = "📍 Montreal, Qc";
 
 
-    public function whelloWorld()
+    public function helloWorld()
     {
-        echo "I’m going to have to science the shit out of this. 🚀 \n";
+        echo "I'm going to have to science the shit out of this. 🚀 \n";
     }
 }
 
